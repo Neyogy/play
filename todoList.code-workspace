@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\assets"
+		},
+		{
+			"path": "..\\HTML2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "todoList",
+		"liveServer.settings.port": 5501
+	}
+}
